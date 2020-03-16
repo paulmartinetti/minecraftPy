@@ -1,0 +1,6 @@
+#gitignore
+/anyio
+/mcpi
+/microbit
+bitio.hex
+findPort.py
